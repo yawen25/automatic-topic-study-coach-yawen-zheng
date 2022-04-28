@@ -1,0 +1,12 @@
+﻿title,description
+b1,Text Similarity ScoringText Data Mining For Business Decisions Module 9 Text Similarity Scoring How do we compare the similarities of two text documents?
+b2,"Data Mining- Continuing with Model-Makingbusiness understanding, data understanding, data preparation, modeling, evaluation, deployemet, data, regression, clustering, association, anomaly detection, time series forecasting, text mining, feature selection, classification, data mining, term frequency, keyword analysis, sentiment analysis, similarity scoring"
+b3,"Text Similarity Scoringterm frequency analysis, keyword analysis, sentiment analysis, visualizing text data, coding qualitative data, named entity recognition, topic recognition, transformers, text data mining"
+b4,"What is Text Similarity Scoring?• Take, for example, these three texts: A - Most mornings, I like to go out for a run. B - Running is an excellent exercise for the brain. C - The lead runner broke away from the pack early in the race. • We want to compare these statements against this one-sentence document: – Thesergeantledtheplatoonintheirdaily run early in the day. • Which of the three texts above is most similar to the fourth text? • The three sentences are the target, and the fourth is our source. In the first step, the algorithm extracts all the terms and produces a Bag-of-Words for each (as we did in early chapters)."
+b5,"TF-IDF Scoring• In the next step, the algorithm removes all the stop words (I, to, a). • Then tokenizes and lemmatizes all terms (run and runner get converted to run). • The TF, or term frequency, is computed next (essentially, it performs a word frequency analysis). – But if some words are too frequent, they may not be too interesting (like the word “lawyer” in contracts: we all know they will be there, so they are commonplace and should be downplayed). – The algorithm downplays them by using the inverse of the frequency (the IDF part). We are left with lists of words and their inverse frequencies. • Now we compare the list of words and their score to see if they have words in common and compute a common score normalized to 1 (the cosine similarity score)."
+b6,TF-IDF Scoring
+b7,TF-IDF ScoringWe will use the tool Simi Bot for text similarity scoring – https://wukunchen.shinyapps.io/SimiBot/ • The results look like this:
+b8,Simi Bot
+b9,Results
+b10,TF-IDF weighs distinctive words more
+b11,TF-IDF weighs distinctive words more

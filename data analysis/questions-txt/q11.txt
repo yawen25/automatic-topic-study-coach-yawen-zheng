@@ -1,0 +1,1 @@
+﻿What character is used as a delimiter between data fields in a CSV encoded file?	a space	a comma	a tab	a colon

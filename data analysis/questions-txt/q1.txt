@@ -1,0 +1,1 @@
+﻿Sentiment analysis will always give us either a positive or a negative indication of customer opinion, but nothing in between.

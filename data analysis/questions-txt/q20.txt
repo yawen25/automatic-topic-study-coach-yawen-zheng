@@ -1,0 +1,1 @@
+﻿Which of the following are techniques NOT typically employed in text data mining: 	term frequency analysis	sentiment analysis	coding qualitative data	name entity recognition	topic recognition	hierarchical clustering	logistic regression

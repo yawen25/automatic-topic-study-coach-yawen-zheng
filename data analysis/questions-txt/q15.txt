@@ -1,0 +1,1 @@
+﻿The most critical step in a data mining project is:	discovering the information in need of the customer	cleaning the data	selecting the proper analytical algorithm	framing the right analytical questions

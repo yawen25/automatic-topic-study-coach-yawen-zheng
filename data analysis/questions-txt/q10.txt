@@ -1,0 +1,1 @@
+﻿is a technique used to locate and classify name found in a text into pre-defined categories.	topic modeling	keyword extraction	sentiment analysis.	Named entity extraction

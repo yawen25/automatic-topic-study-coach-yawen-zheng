@@ -1,0 +1,14 @@
+﻿title,description
+b1,Visualizing Text DataText Data Mining For Business Decisions Module 8 Visualizing Text Data How do we convert text into visuals for analysis?
+b2,"data Mining- Continuing Model-Makingbusiness understanding, data understanding, data preparation, modeling, evaluation, deployemet, data, regression, clustering, association, anomaly detection, time series forecasting, text mining, feature selection, classification, data mining, term frequency, keyword analysis, sentiment analysis, similarity scoring"
+b3,"Visualizing Text Dataterm frequency analysis, keyword analysis, sentiment analysis, visualizing text data, coding qualitative data, named entity recognition, topic recognition, transformers, text data mining"
+b4,"Data Visualization for Analysis• An analyst typically creates visuals of the analysis results as analysis progresses. – Graphs of the data for analysis – They are rough graphs with no thought given to making them compelling at this point in the analysis. – Likely that no one other than the analyst will ever see most of those rough charts. • These graphs may even accumulate in an electronic research notebook (typically a PowerPoint document) with slides as containers for the charts. – At the end of the analysis, these graphs and numerical summaries of results accumulated in such a notebook are used to draw conclusions and answer questions. We call this charting process."
+b5,"Tools to Convert Text into Visualsword clouds, links diagrams, terms berry plots, wordtree, trends charts"
+b6,Word Cloud - CV
+b7,Links diagram - CV
+b8,Trends diagram - CV
+b9,WordTree - CV
+b10,TermsBerry Plot - CV
+b11,Artificial Word Cloud
+b12,Analysis of key features as insight from the visuals• How does the visual compare to the key words? • What connections do you see from important words in your resume top words other features of your resume? • Time series analysis • Any other insights?
+b13,Time Series Word Clouds

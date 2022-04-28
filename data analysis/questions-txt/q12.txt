@@ -1,0 +1,1 @@
+﻿Which text data mining technique maybe used to compare a company's webpage to a competitors to try to improve its ranking in the search engines. 	keyword analysis	term frequency analysis	name entity recognition	sentiment analysis

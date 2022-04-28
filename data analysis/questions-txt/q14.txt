@@ -1,0 +1,1 @@
+﻿In keyword analysis the number of words we consider important is determined by:reactiondeductionintrospectioninspection

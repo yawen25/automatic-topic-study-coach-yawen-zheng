@@ -1,0 +1,1 @@
+﻿The definitions of data variables in a database can be found in	the data report	the data dictionary	metadata	the SQL tables

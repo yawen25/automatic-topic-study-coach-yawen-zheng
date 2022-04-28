@@ -1,0 +1,1 @@
+﻿A _________ is a graphical technique used to gain insight on what customers are saying from a text field of a customer survey.	Word cloud	box plot	Bar plot	pie chart

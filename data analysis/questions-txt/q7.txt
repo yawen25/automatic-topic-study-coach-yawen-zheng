@@ -1,0 +1,1 @@
+﻿A date is considered a qualitative type of data variable.

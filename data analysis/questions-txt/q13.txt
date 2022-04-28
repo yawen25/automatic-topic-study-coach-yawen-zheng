@@ -1,0 +1,1 @@
+﻿Which binary character encoding technique is preferred for text data mining:	Unicode UTF-16	Unicode UTF-8	Baudot code	ASCII-7 code

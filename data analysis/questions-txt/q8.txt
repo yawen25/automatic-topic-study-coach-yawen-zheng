@@ -1,0 +1,1 @@
+﻿When using coding to analyze text a good rule of thumb for the number of codes that need to be generated is:	8-10	10-15	15-20	4-5	6-8

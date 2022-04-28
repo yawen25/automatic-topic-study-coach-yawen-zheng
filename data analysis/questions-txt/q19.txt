@@ -1,0 +1,1 @@
+﻿Which of the following techniques maybe used to visualize the context of the text data	Terms Berry plots	word trees	pie charts	bar plots	Word clouds

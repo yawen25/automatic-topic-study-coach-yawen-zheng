@@ -1,0 +1,1 @@
+﻿In text data mining a set of static texts that are the input data to our model is called a:	bag of words	text data file	flat file	corpus
